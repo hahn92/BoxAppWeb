@@ -12,6 +12,7 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;line-he
 .site-header .container{display:flex;align-items:center;justify-content:space-between}
 .brand{margin:0;padding:16px 0;font-size:1.25rem;color:var(--primary)}
 .main-nav a{margin-left:16px;text-decoration:none;color:var(--muted)}
+.lang-switch{font-weight:bold;color:var(--primary) !important;border-left:1px solid #ddd;padding-left:12px}
 .hero{padding:32px 0}
 .hero h2{margin:0 0 8px;font-size:1.75rem}
 .cta{margin-top:16px}
