@@ -1,0 +1,11 @@
+{
+  "name": "boxing-app-web",
+  "version": "1.0.0",
+  "description": "App boxing description",
+  "scripts": {
+    "minify:css": "cleancss -o css/styles.min.css css/styles.css"
+  },
+  "devDependencies": {
+    "clean-css-cli": "^5.6.3"
+  }
+}
